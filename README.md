@@ -196,6 +196,25 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/stats/base/dmeanpn`][@stdlib/stats/base/dmeanpn]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array using a two-pass error correction algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats/base/meanpn`][@stdlib/stats/base/meanpn]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array using a two-pass error correction algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats/base/smean`][@stdlib/stats/base/smean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats/base/snanmeanpn`][@stdlib/stats/base/snanmeanpn]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using a two-pass error correction algorithm.</span>
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -260,6 +279,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@neely:1966a]: https://doi.org/10.1145/365719.365958
 
 [@schubert:2018a]: https://doi.org/10.1145/3221269.3223036
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dmeanpn]: https://github.com/stdlib-js/stats-base-dmeanpn
+
+[@stdlib/stats/base/meanpn]: https://github.com/stdlib-js/stats-base-meanpn
+
+[@stdlib/stats/base/smean]: https://github.com/stdlib-js/stats-base-smean
+
+[@stdlib/stats/base/snanmeanpn]: https://github.com/stdlib-js/stats-base-snanmeanpn
+
+<!-- </related-links> -->
 
 </section>
 
