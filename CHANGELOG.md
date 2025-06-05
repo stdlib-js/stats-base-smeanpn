@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-05)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`021eb13`](https://github.com/stdlib-js/stdlib/commit/021eb13dce7e7c359ec262d0d37cce210deef3a7) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`4a3bf82`](https://github.com/stdlib-js/stdlib/commit/4a3bf8265853f28773195386bbcb16026015d2fd) - **docs:** remove empty line [(#6979)](https://github.com/stdlib-js/stdlib/pull/6979) _(by stdlib-bot)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`9221ecf`](https://github.com/stdlib-js/stdlib/commit/9221ecf992b4b462e27afc2d87b88ced263c8f0a) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smeanpn` [(#6661)](https://github.com/stdlib-js/stdlib/pull/6661) _(by Gururaj Gurram, Athan Reines)_
